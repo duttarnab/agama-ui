@@ -1,1 +1,15 @@
-{}
+{
+    "test": {
+        "gh_author": "duttarnab",
+        "gh_repo_path": "agama-ui",
+        "project_name": "test",
+        "version": "0.0.1",
+        "author": "duttarnab",
+        "author_website": "https://github.com/duttarnab/agama-ui",
+        "github_uri": "https://github.com/duttarnab/agama-ui",
+        "project_description": "test",
+        "license": "MIT",
+        "last_updated": "1678088493210",
+        "project_type": "community"
+    }
+}
